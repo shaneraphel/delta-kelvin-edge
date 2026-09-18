@@ -9,3 +9,7 @@ A local converter that keeps interval temperature (a difference) off the affine 
 ```bash
 python -m delta_kelvin.convert --kind interval --magnitude 3 --target point
 ```
+
+## Demo
+
+https://shaneraphel.github.io/delta-kelvin-edge/
