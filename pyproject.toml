@@ -1,0 +1,5 @@
+[project]
+name = "delta-kelvin-edge"
+version = "0.1.0"
+description = "On-device interval versus point temperature conversion"
+requires-python = ">=3.11"
