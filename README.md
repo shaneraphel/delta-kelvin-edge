@@ -7,3 +7,8 @@ A point temperature may shift by the kelvin offset. An interval temperature has 
 ## Demo
 
 https://shaneraphel.github.io/delta-kelvin-edge/
+
+## Resource
+
+Playable tape: `schema/bind.schema.json` plus `fixtures/sample.json`.
+A named schema without a fixture is not a resource.
